@@ -734,6 +734,11 @@ http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609331
 #EXTINF:-1 group-title="Timnas Kualifikasi PD26", 🇲🇾 Astro.Arena
 http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/605251
 
+#EXTINF:-1 group-title="Timnas Kualifikasi PD26", Bein Arab 1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461007
+#EXTINF:-1 group-title="Timnas Kualifikasi PD26", Bein Arab 2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461008
+
 
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/fight/unifi_sports.png" group-title="SPORT-Fight", UNIFI SPORTS
