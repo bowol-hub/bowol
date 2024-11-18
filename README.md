@@ -270,10 +270,30 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/90
 
 
 ```````` Kg ````````
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Show
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Show
 https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB 1
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",MYTV SUPER 1
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB DRAMA
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",PEARL
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",PEARL DRAMA
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",MATV
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",POP C FILM
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",MYTV SUPER 2
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB 2
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",MYTV SUPER 3
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1.jpg" group-title="CHINA CCTV",CCTV 1 FHD
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
