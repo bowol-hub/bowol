@@ -862,6 +862,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=7238&deviceMac=00:1A:79:22
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461007
 #EXTINF:-1 group-title="Timnas Kualifikasi PD26", Bein Arab 2
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461008
+
+#EXTINF:-1 group-title="Timnas Kualifikasi PD26" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331
 #EXTINF:-1  group-title="SPORTS" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350744&extension=ts
 #EXTINF:-1  group-title="SPORT-GOLF" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
