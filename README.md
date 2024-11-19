@@ -784,19 +784,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="Timnas Kualifikasi PD26",Sportstars 2 (B)
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
-#EXTINF:-1 group-title="Timnas Kualifikasi PD26", 🇲🇾 Arena 1 (A)
-http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609330
-#EXTINF:-1 group-title="Timnas Kualifikasi PD26", 🇲🇾 Arena 1 (B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvtree.net:8080/9a9c2e24/d3850543/157485
-#EXTINF:-1 group-title="Timnas Kualifikasi PD26", 🇲🇾 Arena 2 (A)
-http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/609331
-#EXTINF:-1 group-title="Timnas Kualifikasi PD26", 🇲🇾 Arena 2 (B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvtree.net:8080/9a9c2e24/d3850543/287793
 
-#EXTINF:-1 group-title="Timnas Kualifikasi PD26", 🇲🇾 Astro.Arena
-http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/605251
 
 
 
@@ -870,9 +858,9 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167744.ts
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO PREM1ER FHD 
 http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1 group-title="SPORTS", Bein Arab 1
+#EXTINF:-1 group-title="Timnas Kualifikasi PD26", Bein Arab 1
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461007
-#EXTINF:-1 group-title="SPORTS", Bein Arab 2
+#EXTINF:-1 group-title="Timnas Kualifikasi PD26", Bein Arab 2
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461008
 #EXTINF:-1  group-title="SPORTS" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350744&extension=ts
