@@ -367,9 +367,9 @@ http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv001
 http://litv.zapi.us.kg/?id=4gtv-4gtv001
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視新聞台 (No.1)
-http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv003
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視新聞台 (No.2)
 http://litv.zapi.us.kg/?id=4gtv-4gtv003
+#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv003
+
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="TAIWAN", OPERA
 http://litv.zapi.us.kg/?id=4gtv-4gtv006
 
@@ -377,9 +377,10 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv006
 http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-ftv07
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 
-http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv004
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 (2)
 http://litv.zapi.us.kg/?id=4gtv-4gtv004
+#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv004
+
+
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan (pagi-sore)
 http://125.227.210.55:8160/VideoInput/play.ts
