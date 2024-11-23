@@ -792,12 +792,17 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167744.ts
 #EXTINF:-1 group-title="SPORTS",SPORTV•4_PT
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ASTRO PREM1ER FHD 
-http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=7238&deviceMac=00:1A:79:22:59:72
-#EXTINF:-1 group-title="SPORTS", Bein Arab 1
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461007
-#EXTINF:-1 group-title="SPORTS", Bein Arab 2
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461008
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroPremierLeague.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroPremierLeague2.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroGrandStand.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/AstroFootBall.m3u8
 
 
 #EXTINF:-1  group-title="SPORTS" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
@@ -838,7 +843,12 @@ http://opplex.tv:8080/3116580700/0700/350997
 #EXTINF:-1  tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Volly",MOJI live 3
 http://xtv.ooo:8080/0966717777/0966717777/350997
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="🇲🇨 Liga Indonesia",SPORTSTAR 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd 
+
+#EXTINF:0 group-title="🇲🇨 Liga Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstar 3 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
+https://dusk.biz.id/visas/index.mpd?id=1002
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR
+http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
