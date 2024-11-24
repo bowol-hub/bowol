@@ -265,8 +265,6 @@ http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB DRAMA
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",PEARL
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",PEARL DRAMA
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",MATV
@@ -280,35 +278,14 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",MYTV SUPER 3
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1.jpg" group-title="CHINA CCTV",CCTV 1 FHD
+#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1.jpg" group-title="CHINA",CCTV 1 HD
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv2.jpg" group-title="CHINA CCTV",CCTV 2 FHD
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-name="CCTV 3 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv3.jpg" group-title="CHINA CCTV",CCTV 3 FHD 
+#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv3.jpg" group-title="CHINA",CCTV 3 HD 
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv4.jpg" group-title="CHINA CCTV",CCTV 4 FHD
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv6.jpg" group-title="CHINA CCTV",CCTV 6 FHD 
+#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv6.jpg" group-title="MOVIES CHINESE",CCTV 6 HD 
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV6_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv8.jpg" group-title="MOVIES CHINESE",CCTV 8 FHD
+#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv8.jpg" group-title="MOVIES CHINESE",CCTV 8 HD
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv9.jpg" group-title="CHINA CCTV",CCTV 9 FHD 
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv10.jpg" group-title="CHINA CCTV",CCTV 10 FHD 
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv11.jpg" group-title="CHINA CCTV",CCTV 11 FHD 
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv12.jpg" group-title="CHINA CCTV",CCTV 12 FHD 
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv13.jpg" group-title="CHINA CCTV",CCTV 13 FHD 
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-name="CCTV 14 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv14.jpg" group-title="CHINA CCTV",CCTV 14 FHD 
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv15.jpg" group-title="CHINA CCTV",CCTV 15 FHD 
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv16.jpg" group-title="CHINA CCTV",CCTV 16 FHD
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
-
 
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/83/454/png-clipart-logo-newspaper-mbc-product-design-television-channel-mbc-text-logo.png" group-title="INTERNATIONAL TV",MBC Dubai
@@ -757,8 +734,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-BILIARD",Taiwan Sports General
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports General
+http://udinlaw.sytes.net:5000/litv/litv-longturn06
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-GOLF",Taiwan Sports General
 http://udinlaw.sytes.net:5000/litv/litv-longturn06
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-BILIARD",Taiwan Sports Billiard
 http://udinlaw.sytes.net:5000/litv/litv-longturn10
@@ -775,9 +753,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" group-title="SPORT-Fight", FIGHT SPORTS 2
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
-
-#EXTINF:-1 group-title="SPORT-Fight",SPORTV  1 Portugal
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20210227/ourmid/pngtree-social-competitive-indoor-billiards-png-image_2969798.jpg" group-title="SPORT-BILIARD",Billyard
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
