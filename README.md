@@ -357,10 +357,19 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv004
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan (pagi-sore)
-http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi XIJU (pagi-sore)
-http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan 
+http://iptv12k.com:35461/654321/123456/14495
+#http://125.227.210.55:8160/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi XIJU 
+http://iptv12k.com:35461/654321/123456/20962
+#http://61.221.215.25:8800/hls/41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",三立綜合台
+http://iptv12k.com:35461/654321/123456/16270
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",三立都会
+http://iptv12k.com:35461/654321/123456/14496
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="TAIWAN", 中視菁采台
 http://udinlaw.sytes.net:5000/litv/4gtv-4gtv064
