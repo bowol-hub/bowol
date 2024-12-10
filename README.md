@@ -334,7 +334,7 @@ http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa
 http://60.248.77.83/sat/tv051.flv
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv002
+http://litv.zapi.us.kg/?id=4gtv-4gtv002
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv002
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="TAIWAN", 民視台灣台 (2)
@@ -347,9 +347,8 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv003
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="TAIWAN", OPERA
 http://litv.zapi.us.kg/?id=4gtv-4gtv006
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="TAIWAN", 民視旅遊台
-http://udinlaw.sytes.net:5000/litv/litv-ftv07
-#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-ftv07
+
+
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 
 http://litv.zapi.us.kg/?id=4gtv-4gtv004
@@ -371,8 +370,7 @@ http://iptv12k.com:35461/654321/123456/16270
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",三立都会
 http://iptv12k.com:35461/654321/123456/14496
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="TAIWAN", 中視菁采台
-http://udinlaw.sytes.net:5000/litv/4gtv-4gtv064
+
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/dalitv.jpg" group-title="TAIWAN",DALI TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
@@ -406,6 +404,14 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/19
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",pindah ke aplikasi OTT navigator
 http://iptv.kilas7.com:80/kaukia/asdfrewq/21
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPORE",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPORE",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPORE",Mediacorp Entertainment China
 
 
 
