@@ -316,8 +316,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="INTERNATIONAL TV",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="INTERNATIONAL TV",Fashion TV Asia
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkk3WjMSDmy_jRKosQ4tavQ
+
 
 #EXTINF:-1 tvg-logo="https://www.tvkeep.com/uploads/cts-hd.jpg" group-title="TAIWAN",CTS
 http://60.248.77.83/sat/tv111.flv
@@ -357,19 +356,17 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv004
 
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan 
-http://iptv12k.com:35461/654321/123456/14495
+http://122.117.7.235:8521/http/61.219.99.20:8081/hls/65/807/ch20.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
+#http://iptv12k.com:35461/654321/123456/14495
 #http://125.227.210.55:8160/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi XIJU 
-http://iptv12k.com:35461/654321/123456/20962
-#http://61.221.215.25:8800/hls/41/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",三立綜合台
-http://iptv12k.com:35461/654321/123456/16270
-
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",三立都会
-http://iptv12k.com:35461/654321/123456/14496
+http://122.117.7.235:8522/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
+#http://61.221.215.25:8800/hls/41/index.m3u8
+#http://iptv12k.com:35461/654321/123456/14496
 
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi Xinwen
+http://122.117.7.235:8543/http/61.219.99.20:8081/hls/65/807/ch18.m3u8?token=7375646f18d8bc80446afbb09b7c04f854dc6a27
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/dalitv.jpg" group-title="TAIWAN",DALI TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -412,7 +409,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPORE",Mediacorp Entertainment China
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
 
 
