@@ -432,10 +432,6 @@ http://rr3.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png" group-title="MOVIES CHINESE",Celestial Movie (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg" group-title="MOVIES CHINESE",CCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -458,13 +454,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rocke
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/620/620-LOGO-m.png" group-title="MOVIES",My Cinema (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",My Cinema Asia_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES",My Family Cinema_swift
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES CHINESE",Film China Mandarin 1
 http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 group-title="MOVIES CHINESE",Film China Mandarin 2
@@ -486,8 +475,7 @@ http://udinlaw.sytes.net:8000/playlist/nonton.php?id=26598
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES 2", HBO Signature
 http://udinlaw.sytes.net:8000/playlist/nonton.php?id=26597
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES 2",HBO ASIA
-http://iptvtree.net:8080/9a9c2e24/d3850543/197972
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES 2",HBO
 http://udinlaw.sytes.net:8000/playlist/nonton.php?id=26595
 
@@ -509,8 +497,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png" group-title="MOVIES 2",Zee Bioskop (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES 2",HBO Hits
-http://udinlaw.sytes.net:8000/playlist/nonton.php?id=26596
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -758,14 +745,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports General
-http://udinlaw.sytes.net:5000/litv/litv-longturn06
+https://litv.zapi.us.kg/?id=litv-longturn06
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-GOLF",Taiwan Sports General
-http://udinlaw.sytes.net:5000/litv/litv-longturn06
+https://litv.zapi.us.kg/?id=litv-longturn06
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-BILIARD",Taiwan Sports Billiard
-http://udinlaw.sytes.net:5000/litv/litv-longturn10
+https://litv.zapi.us.kg/?id=litv-longturn10
 #http://37.27.111.214:8080/live/15/hls.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-BILIARD",Taiwan Sports Billiard 2
-http://udinlaw.sytes.net:5000/litv/litv-longturn13
+https://litv.zapi.us.kg/?id=litv-longturn13
 
 
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" group-title="SPORT-Fight", FIGHT SPORTS 
@@ -795,18 +782,18 @@ https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="SPORT-Tennis", Taiwan Sports Tennis 
-http://udinlaw.sytes.net:5000/litv/litv-longturn08
+https://litv.zapi.us.kg/?id=litv-longturn08
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-longturn08
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="SPORT-Tennis", Taiwan Sports Tennis 2
-http://udinlaw.sytes.net:5000/litv/litv-longturn09
+https://litv.zapi.us.kg/?id=litv-longturn09
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-longturn09
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="SPORT-GOLF", Taiwan Sports Golf 2
-http://udinlaw.sytes.net:5000/litv/litv-longturn05
+https://litv.zapi.us.kg/?id=litv-longturn05
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-longturn05
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="SPORT-Tennis", Taiwan Sports Tenis 3
-http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-longturn04
+https://litv.zapi.us.kg/?id=litv-longturn04
 
 
 
