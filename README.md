@@ -23,15 +23,18 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="NASIONAL",Trans 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="NASIONAL",MOJI TV (Live)
+http://xtv.ooo:8080/30912088/60996054/350997
 
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-ymiWM6mPRTk/UiRRW9Y_7pI/AAAAAAAABgc/k4KCEBdaOfE/s1600/Net-TV-dan-KPI-1-480x300.png" group-title="NASIONAL",NET HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/596/596-LOGO-m.png" group-title="NASIONAL",Net (V+)
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ymiWM6mPRTk/UiRRW9Y_7pI/AAAAAAAABgc/k4KCEBdaOfE/s1600/Net-TV-dan-KPI-1-480x300.png" group-title="NASIONAL",Net (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="NASIONAL",Indonesiana TV
@@ -116,6 +119,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews
 https://alfa.otv.my.id/rplus_otto/rctiplus.php?id=inews|Referer=https://m.rctiplus.com/
 
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews Sports
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews Sports 2
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
 #EXTINF:-1 tvg-id="94" tvg-logo="https://www.dens.tv/images/channel-logo/94.jpg" group-title="BERITA", Elshinta TV
 http://rr2.dens.tv/s/s12/index.m3u8
 
@@ -144,11 +152,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="KIDS",Nickelodeon
 https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="KIDS",Nickelodeon English
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png" group-title="KIDS",Nick Jr 
 https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png" group-title="KIDS",Nick Jr english
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -347,7 +361,8 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv003
 http://litv.zapi.us.kg/?id=4gtv-4gtv006
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24VPysE30EMzuXNsbmSzQNsQySAfThTHukA&s" group-title="TAIWAN",Bravo
+https://litv.zapi.us.kg/?id=4gtv-4gtv064
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 
 http://litv.zapi.us.kg/?id=4gtv-4gtv004
@@ -454,16 +469,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rocke
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/620/620-LOGO-m.png" group-title="MOVIES",My Cinema (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+
 #EXTINF:-1 group-title="MOVIES CHINESE",Film China Mandarin 1
 http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 group-title="MOVIES CHINESE",Film China Mandarin 2
 http://epg.112114.xyz/douyu/4246519
 #EXTINF:-1 group-title="MOVIES CHINESE",Film China Mandarin 3
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 group-title="MOVIES CHINESE",Film China Mandarin 4
-http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 group-title="MOVIES CHINESE",Film China Mandarin 5
-http://epg.112114.xyz/douyu/9292492
+
 
 
 
@@ -731,10 +746,6 @@ http://rr3.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.thaicom.io/chbig/big_213_20201222073338.png",PPTV Moto GP Bundesliga
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews Sports
-https://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews Sports 2
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -797,26 +808,9 @@ https://litv.zapi.us.kg/?id=litv-longturn04
 
 
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Volly",MOJI TV (Live)
-http://xtv.ooo:8080/30912088/60996054/350997
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1  tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Volly",MOJI live 2
-http://opplex.tv:8080/3116580700/0700/350997
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1  tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Volly",MOJI live 3
-http://xtv.ooo:8080/0966717777/0966717777/350997
+
 
 
 
