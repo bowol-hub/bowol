@@ -414,8 +414,6 @@ http://122.117.7.235:8522/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",SETi Xinwen
 http://122.117.7.235:8543/http/61.219.99.20:8081/hls/65/807/ch18.m3u8?token=7375646f18d8bc80446afbb09b7c04f854dc6a27
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="TAIWAN",LTV Drama
-http://122.117.7.235:8556/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8?token=7375646f1326302d62d2b4f1947c82efb032a16d
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/dalitv.jpg" group-title="TAIWAN",DALI TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -427,12 +425,6 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.pngitem.com/pimgs/m/206-2069562_tcu-logosvg-wikimedia-commons-tzu-chi-logo-png.png",DA AI2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="TAIWAN",LTV Cinema
-http://122.117.7.235:8536/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8?token=7375646f1326302d62d2b4f1947c82efb032a16d
-#EXTINF:-1 group-title="TAIWAN",Much TV
-http://122.117.7.235:8529/http/61.219.99.20:8081/hls/72/814/ch45.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
-#EXTINF:-1 group-title="TAIWAN",TVBS Drama
-http://122.117.7.235:8532/http/61.219.99.20:8081/hls/65/807/ch17.m3u8?token=7375646f1326302d62d2b4f1947c82efb032a16d
 
 
 
@@ -515,8 +507,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid
 http://rr3.dens.tv/s/s31/index.m3u8
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw", VideoLand Movie
 http://122.117.7.235:8555/http/61.219.99.20:8081/hls/69/811/ch35.m3u8?token=7375646f80d5adcf96585bed19f06b16b64c5f2c
-#EXTINF:-1 group-title="MOVIES CHINESE", GTV
-http://122.117.7.235:8531/http/61.219.99.20:8081/hls/66/808/ch23.m3u8?token=7375646fb4ecaa6d6f503a7957fe578295798a8b
 
 
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES 2",HBO Family
