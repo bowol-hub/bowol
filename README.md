@@ -19,7 +19,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/c6/c4/14/c6c414913a1071e00bbb510f3fab157e.png" group-title="NASIONAL",Trans TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/c6/c4/14/c6c414913a1071e00bbb510f3fab157e.png" group-title="NASIONAL",Trans TV HD1
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c6/c4/14/c6c414913a1071e00bbb510f3fab157e.png" group-title="NASIONAL",Trans TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -32,7 +33,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="NASIONAL",Trans 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="NASIONAL",Trans 7 HD1
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="NASIONAL",Trans 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -137,10 +139,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvone-id.png" group-title="BERITA",TVONE HD
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvone-id.png" group-title="ShareExt@Relax",TVONE IH
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews
 https://alfa.otv.my.id/rplus_otto/rctiplus.php?id=inews|Referer=https://m.rctiplus.com/
-
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews Sports
 https://allcutv.rctiplus.id/inews2023.m3u8
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews Sports 2
@@ -274,8 +277,6 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
 
-
-
 #EXTINF:-1 group-title="DRAKOR/Korea" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png",K+
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
@@ -284,6 +285,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="DRAKOR/Korea",Tvn Movies
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 group-title="DRAKOR/Korea" tvg-logo="https://www.dens.tv/images/channel-logo/58.jpg", tvN Movies HD
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="DRAKOR/Korea",TVN HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -345,12 +349,9 @@ https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",MATV
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+http://ali.hlspull.yximgs.com/live/huanqiuhktvvcbfyhbxcvswhjqhjlmcbqyuqfhqqfqsqhnfqhqfqbvmyqy.flv
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",POP C FILM
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/83/454/png-clipart-logo-newspaper-mbc-product-design-television-channel-mbc-text-logo.png" group-title="INTERNATIONAL TV",MBC Dubai
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
@@ -381,30 +382,33 @@ http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa
 http://60.248.77.83/sat/tv051.flv
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視
-http://litv.zapi.us.kg/?id=4gtv-4gtv002
-#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv002
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv002
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視-2
+http://ali.hlspull.yximgs.com/live/huanqiuhktvphqwfpqwvnqfjlsetfqqqqsqsftewqhvcbqqfjquolqbms.flv
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="TAIWAN", 民視台灣台 (2)
-http://litv.zapi.us.kg/?id=4gtv-4gtv001
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="TAIWAN", 民視台灣台
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv001
+#http://litv.zapi.us.kg/?id=4gtv-4gtv001
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視新聞台 (No.1)
-http://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="TAIWAN", 民視新聞台 
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv003
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv003
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="TAIWAN", OPERA
-http://litv.zapi.us.kg/?id=4gtv-4gtv006
-
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv006
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24VPysE30EMzuXNsbmSzQNsQySAfThTHukA&s" group-title="TAIWAN",Bravo
-https://litv.zapi.us.kg/?id=4gtv-4gtv064
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv064
+#https://litv.zapi.us.kg/?id=4gtv-4gtv064
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="TAIWAN", 民視綜藝台 
-http://litv.zapi.us.kg/?id=4gtv-4gtv004
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv004
 #http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/4gtv-4gtv004
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan 
 http://122.117.7.235:8521/http/61.219.99.20:8081/hls/65/807/ch20.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
-#http://iptv12k.com:35461/654321/123456/14495
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan 2
+http://iptv12k.com:35461/654321/123456/14495
 #http://125.227.210.55:8160/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="TAIWAN",三立都会
@@ -470,9 +474,6 @@ http://rr3.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-title="MOVIES",Rock Action (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
-#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_169.png" group-title="MOVIES",Action Hollywood
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -497,17 +498,20 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celestia
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg", Celestial Movies HD
 http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg", Celestial Movies (CN)
+http://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfjvqsfcbqbnqtypq.flv
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LS Time Movie
-http://122.117.7.235:8528/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8?token=7375646f1326302d62d2b4f1947c82efb032a16d
+http://ali.hlspull.yximgs.com/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
 
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM (Celestial Classic MV)
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM 2
 http://rr3.dens.tv/s/s31/index.m3u8
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM (CN)
+http://ali.hlspull.yximgs.com/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw", VideoLand Movie
-http://122.117.7.235:8555/http/61.219.99.20:8081/hls/69/811/ch35.m3u8?token=7375646f80d5adcf96585bed19f06b16b64c5f2c
-
+http://ali.hlspull.yximgs.com/live/huanqiuhktvefqqxchqhqpfqxcvjwpejypwepjqxfcvnxvsqqlqhsqfhwlty.flv
 
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES 2",HBO Family
 http://udinlaw.sytes.net:8000/playlist/nonton.php?id=26598
@@ -516,7 +520,7 @@ http://udinlaw.sytes.net:8000/playlist/nonton.php?id=26597
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES 2",HBO
 http://udinlaw.sytes.net:8000/playlist/nonton.php?id=26595
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES 2",HBO Asia
-http://122.117.7.235:8557/http/61.219.99.20:8081/hls/71/813/ch41.m3u8?token=7375646f80d5adcf96585bed19f06b16b64c5f2c
+http://ali.hlspull.yximgs.com/live/huanqiuhktvmqqlqpwqjctjfhjvqjqjuqlvcbeyweqweefshqfhhqsqqcxhbo.flv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES 2",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -788,21 +792,24 @@ http://iptv12k.com:35461/654321/123456/5943
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTS",Astro Arena Bola
 http://iptv12k.com:35461/654321/123456/688
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA体育1台 
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 1
 http://iptv12k.com:35461/654321/123456/14443
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA体育2台 
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 1 Backup
+http://ali.hlspull.yximgs.com/live/huanqiuhktvqeqpqxcvqpqoqjxcvjqoqjqpoejhopqfvxcqhetouhqqvqqqtyy.flv
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 2
 http://iptv12k.com:35461/654321/123456/14442
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA体育3台 
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 2 Backup
+http://ali.hlspull.yximgs.com/live/huanqiuhktvcxvpqetqjcxoqvmqlqqtqwqpohujscbcxoqcvmnfuqlbhhqtye.flv
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 3
 http://iptv12k.com:35461/654321/123456/14441
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 3 Backup
+http://ali.hlspull.yximgs.com/live/huanqiuhktvcxvpqeyqjcxoqvmqlqbtqwqhoqujscbcxoqcvmnfuqlbhhqtys.flv
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
 http://15.235.144.67:35461/654321/123456/11243
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
 http://15.235.144.67:35461/654321/123456/971
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
 http://51.79.248.110:888/Lyana/Lyana/13461
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
 http://51.79.248.110:888/Lyana/Lyana/13464
 
@@ -834,14 +841,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports General
-https://litv.zapi.us.kg/?id=litv-longturn06
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn06
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-GOLF",Taiwan Sports General
-https://litv.zapi.us.kg/?id=litv-longturn06
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn06
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-BILIARD",Taiwan Sports Billiard
-https://litv.zapi.us.kg/?id=litv-longturn10
-#http://37.27.111.214:8080/live/15/hls.m3u8
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn10
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-BILIARD",Taiwan Sports Billiard 2
-https://litv.zapi.us.kg/?id=litv-longturn13
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn13
 
 
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" group-title="SPORT-Fight", FIGHT SPORTS 
@@ -871,27 +877,18 @@ https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="SPORT-Tennis", Taiwan Sports Tennis 
-https://litv.zapi.us.kg/?id=litv-longturn08
-#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-longturn08
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn08
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="SPORT-Tennis", Taiwan Sports Tennis 2
-https://litv.zapi.us.kg/?id=litv-longturn09
-#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-longturn09
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn09
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="SPORT-GOLF", Taiwan Sports Golf 2
-https://litv.zapi.us.kg/?id=litv-longturn05
-#http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-longturn05
-
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn05
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="SPORT-GOLF", Taiwan Sports Golf 3
+http://ali.hlspull.yximgs.com/live/huanqiuhktvqmxqcvpqoqqjeqhjbcxhvqsqtqhwoqqfsqqqhvcxvhbsqqyq.flv
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="SPORT-GOLF", Taiwan Sports Golf 4
+http://ali.hlspull.yximgs.com/live/huanqiuhktvtvqqpcpvueqlqyqjqyfqoxvchqwhqwoqjqqhqqlsqhbqbsqqeq.flv
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="SPORT-Tennis", Taiwan Sports Tenis 3
-https://litv.zapi.us.kg/?id=litv-longturn04
-
-
-
-
-
-
-
-
-
+https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn04
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR
 http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
