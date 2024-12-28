@@ -426,6 +426,8 @@ http://iptv12k.com:35461/654321/123456/14495
 #http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SET Classic
 http://8.222.179.68:5500/litv/4gtv-4gtv034
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Hua Hee Dai
+http://tvking.xyz:8080/wanz2022/asdf2022/8486
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/dalitv.jpg" group-title="TAIWAN",DALI TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
@@ -440,20 +442,28 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
 #SINGAPORE
-#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",pindah ke aplikasi OTT navigator 
-http://iptv.kilas7.com:80/kaukia/asdfrewq/22
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5
+http://tvking.xyz:8080/wanz2022/asdf2022/8507
+#http://iptv.kilas7.com:80/kaukia/asdfrewq/22
 #https://i.imgur.com/HU9JpQK.mp4
-
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (B)
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",pindah ke aplikasi OTT navigator
 http://iptv.kilas7.com:80/kaukia/asdfrewq/23
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA HD
 https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://seeklogo.com/images/1/8TV-logo-90A8C38436-seeklogo.com.png",TV8
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",pindah ke aplikasi OTT navigator
-http://iptv.kilas7.com:80/kaukia/asdfrewq/19
-#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",pindah ke aplikasi OTT navigator
-http://iptv.kilas7.com:80/kaukia/asdfrewq/21
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8
+http://tvking.xyz:8080/wanz2022/asdf2022/8508
+#http://iptv.kilas7.com:80/kaukia/asdfrewq/19
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (B)
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U
+http://tvking.xyz:8080/wanz2022/asdf2022/8509
+#http://iptv.kilas7.com:80/kaukia/asdfrewq/21
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U (B)
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPORE",Mediacorp Entertainment English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPORE",Mediacorp Entertainment Tamil
