@@ -126,6 +126,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="BERITA",Metro TV
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="BERITA",Metro TV2
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="BERITA",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -444,11 +446,10 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #SINGAPORE
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5
 http://tvking.xyz:8080/wanz2022/asdf2022/8507
-#http://iptv.kilas7.com:80/kaukia/asdfrewq/22
 #https://i.imgur.com/HU9JpQK.mp4
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (B)
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",pindah ke aplikasi OTT navigator
+http://iptv.kilas7.com:80/kaukia/asdfrewq/22
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
 http://iptv.kilas7.com:80/kaukia/asdfrewq/23
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA HD
 https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
@@ -456,14 +457,14 @@ https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8
 http://tvking.xyz:8080/wanz2022/asdf2022/8508
-#http://iptv.kilas7.com:80/kaukia/asdfrewq/19
+
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (B)
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/19
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U
 http://tvking.xyz:8080/wanz2022/asdf2022/8509
-#http://iptv.kilas7.com:80/kaukia/asdfrewq/21
+
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U (B)
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/21
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPORE",Mediacorp Entertainment English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPORE",Mediacorp Entertainment Tamil
@@ -832,8 +833,7 @@ http://15.235.144.67:35461/654321/123456/971
 http://z.b.bkpcp.top/m.php?id=cctv5
 #EXTINF:-1 group-title="SPORTS",Now Sports 2
 https://live.hkdvb.com/hls/live/632.m3u8?token=245492868516952
-#EXTINF:-1 group-title="SPORTS",Now Sports NBA
-https://live.hkdvb.com/hls/live/642.m3u8?token=245492868516952
+
 
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/fight/unifi_sports.png" group-title="SPORT-Fight", UNIFI SPORTS
