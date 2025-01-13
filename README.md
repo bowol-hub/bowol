@@ -5,6 +5,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 3
+http://tvking.xyz:8080/wanz2022/asdf2022/5117
+
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" , SCTV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -358,16 +362,11 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 ```````` Kg ````````
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Show
 https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HONGKONG",RTHK 31
-https://live.hkdvb.com/hls/live/31.m3u8?token=245492868516952
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",无线新闻
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing he
-http://ali.hlspull.yximgs.com/live/huanqiuhktvqqmqptvqsqqwxnhqqwqqtqqqtyfqsqqsqcfqxfqwmxqjtvbxh.flv
-#EXTINF:-1 group-title="HONGKONG",Bagou
-http://205.185.123.236:8899/1/baogutai/baogu.m3u8
+
 
 
 
@@ -889,10 +888,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/87/775/png-transparent-espn-logo-icon-thumbnail.png" group-title="SPORTS",ESPN
 http://108.181.39.189:14059
 
-#EXTINF:-1 group-title="INTERNATIONAL TV",Hang Meas 1 Bundesliga
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Hang Meas 2 Bundesliga
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-GOLF", Golf SBS
 https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
