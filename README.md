@@ -5,7 +5,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="NASIONAL",INDOSIAR 3
 http://tvking.xyz:8080/wanz2022/asdf2022/5117
 
 
@@ -862,14 +862,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORTS",Taiwan Sports General
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn06
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-GOLF",Taiwan Sports General
 http://8.222.179.68:5500/litv/litv-longturn06
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-BILIARD",Taiwan Sports Billiard
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn10
+http://8.222.179.68:5500/litv/litv-longturn10
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-BILIARD",Taiwan Sports Billiard 2
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn13
+http://8.222.179.68:5500/litv/litv-longturn13
 
 
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" group-title="SPORT-Fight", FIGHT SPORTS 
@@ -894,14 +892,11 @@ https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="SPORT-Tennis", Taiwan Sports Tennis 
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn08
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="SPORT-Tennis", Taiwan Sports Tennis 2
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn09
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="SPORT-Tennis", Taiwan Sports Tennis (back up)
+http://8.222.179.68:5500/litv/litv-longturn08
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="SPORT-Tennis", Taiwan Sports Tennis 2 (backup)
 http://8.222.179.68:5500/litv/litv-longturn09
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="SPORT-GOLF", Taiwan Sports Golf 2
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn05
+
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="SPORT-GOLF", Taiwan Sports Golf 2 (backup)
 http://8.222.179.68:5500/litv/litv-longturn05
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="SPORT-GOLF", Taiwan Sports Golf 3
@@ -918,15 +913,14 @@ http://ali.hlspull.yximgs.com/live/huanqiuhktvtvqqpcpvueqlqyqjqyfqoxvchqwhqwoqjq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="SPORT-Tennis", Taiwan Sports Tenis 3
-https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn04
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="SPORT-Tennis", Taiwan Sports Tenis 3 (back up)
 http://8.222.179.68:5500/litv/litv-longturn04
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR
-http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 2
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 3
-http://tvking.xyz:8080/wanz2022/asdf2022/5117
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORT-Tennis",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORT-Tennis",Tennis Channel 2
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORT-Tennis",Tennis Channel 3
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+
 
