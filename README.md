@@ -425,6 +425,13 @@ http://211.75.171.121:8517/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=737
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Hua Hee Dai
 http://tvking.xyz:8080/wanz2022/asdf2022/8486
 
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw",VL Taiwan
+http://211.75.171.121:8529/http/61.67.128.137:8081/hls/69/811/ch033.m3u8
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw",VL Asia
+http://211.75.171.121:8581/http/61.67.128.137:8081/hls/69/811/ch035.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="TAIWAN",LTV Drama
+http://211.75.171.121:8508/http/61.67.128.137:8068/hls/11/80/cstv11.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/dalitv.jpg" group-title="TAIWAN",DALI TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
@@ -520,17 +527,20 @@ http://ali.hlspull.yximgs.com/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqw
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV
 http://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnqsvmbnfquqfjhyuqmqbvnqslhjq.flv
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV Cinema
-http://8.222.179.68:5500/litv/litv-longturn03
+http://211.75.171.121:8509/http/61.67.128.137:8068/hls/10/80/cstv10.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV Kolosal
+http://211.75.171.121:8506/http/61.67.128.137:8068/hls/13/80/cstv13.m3u8
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM (Celestial Classic MV)
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM 2
 http://rr3.dens.tv/s/s31/index.m3u8
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw",VL Cinema
+http://211.75.171.121:8563/http/61.67.128.137:8081/hls/68/810/ch030.m3u8
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM (CN)
 http://ali.hlspull.yximgs.com/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
 #EXTINF:-1 group-title="MOVIES CHINESE",EBC Movies
 http://ali.hlspull.yximgs.com/live/huanqiuhktvqowjxnqltjqhecvxcqqeqqeqyhqjyjuoquomjfqhqqqjqsqy.flv
-
 
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES 2",HBO Family
 http://udinlaw.sytes.net:8000/playlist/nonton.php?id=26598
@@ -817,10 +827,8 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-NBATV.
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 1
 http://ali.hlspull.yximgs.com/live/huanqiuhktvqeqpqxcvqpqoqjxcvjqoqjqpoejhopqfvxcqhetouhqqvqqqtyy.flv
 
-
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 2
 http://ali.hlspull.yximgs.com/live/huanqiuhktvcxvpqetqjcxoqvmqlqqtqwqpohujscbcxoqcvmnfuqlbhhqtye.flv
-
 
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA 3
 http://ali.hlspull.yximgs.com/live/huanqiuhktvcxvpqeyqjcxoqvmqlqbtqwqhoqujscbcxoqcvmnfuqlbhhqtys.flv
@@ -858,8 +866,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sportcast1.jpg" group-title="SPORT-GOLF",Taiwan Sports General
-http://8.222.179.68:5500/litv/litv-longturn06
+
 
 
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" group-title="SPORT-Fight", FIGHT SPORTS 
@@ -901,8 +908,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff43
 
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="SPORT-Tennis", Taiwan Sports Tenis 3 (back up)
-http://47.83.8.156:5008/proxy?url=http://47.83.8.156:5000/litv/litv-longturn04
-
+http://211.75.171.121:8543/http/61.67.128.137:8068/hls/15/80/cstv15.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORT-Tennis",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORT-Tennis",Tennis Channel 2
