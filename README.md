@@ -897,8 +897,7 @@ http://ali.hlspull.yximgs.com/live/huanqiuhktvtvqqpcpvueqlqyqjqyfqoxvchqwhqwoqjq
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="SSPORT-GOLF",NBCgolf
-http://iptv12k.com:35461/654321/123456/1228
+
 
 
 
@@ -1076,4 +1075,17 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/The.Paradis
 https://stream.hownetwork.xyz/xxx/2073-2024-webdl_X_b232dca0/28/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/2073.2024.mp4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SPORT-GOLF",Sky Sports Golf
+https://xyzdddd.mizhls.ru/lb/premium574/index.m3u8
+#EXTINF:-1 group-title="SPORT-GOLF",Golf Channel 2
+https://xyzdddd.mizhls.ru/lb/premium318/index.m3u8
+#EXTINF:-1 group-title="SPORT-GOLF",Super Sports Golf
+https://xyzdddd.mizhls.ru/lb/premium422/index.m3u8
 
+
+#EXTINF:-1 group-title="SPORT-Tennis", Supersports Tennis
+https://xyzdddd.mizhls.ru/lb/premium423/index.m3u8
+#EXTINF:-1 group-title="SPORT-Tennis", Sky Sports Tennis
+https://xyzdddd.mizhls.ru/lb/premium576/index.m3u8
+#EXTINF:-1 group-title="SPORTS", NBC Sports
+https://xyzdddd.mizhls.ru/lb/premium755/index.m3u8
