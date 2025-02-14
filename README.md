@@ -124,9 +124,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews
-https://alfa.otv.my.id/rplus_otto/rctiplus.php?id=inews|Referer=https://m.rctiplus.com/
-#EXTINF:-1 group-title="BERITA" tvg-logo="https://sijamed.mojokertokab.go.id/Logo_Media/iNEWS%20TV-190722269649960.png",iNews 2
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="94" tvg-logo="https://www.dens.tv/images/channel-logo/94.jpg" group-title="BERITA", Elshinta TV
 http://rr2.dens.tv/s/s12/index.m3u8
@@ -319,13 +320,15 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvkeep.com/uploads/cts-hd.jpg" group-title="TAIWAN",CTS
 http://60.248.77.83/sat/tv111.flv
 #EXTINF:-1 tvg-logo="https://www.tvkeep.com/uploads/cts-hd.jpg" group-title="TAIWAN",CTS (2)
-rtmp://f13h.mine.nu/sat/tv111
+http://ali.hlspull.yximgs.com/live/huanqiuhktvpjymvcqnqqqcvbcvbqtyqqqffcfqvqftoqqbvcqfejnhs.flv
 #EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/china-television--600.png" group-title="TAIWAN",CTV
 http://60.248.77.83/sat/tv091.flv
 #EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/china-television--600.png" group-title="TAIWAN",CTV (2)
-rtmp://f13h.mine.nu/sat/tv091
+http://ali.hlspull.yximgs.com/live/huanqiuhktvqphfwnmfjcqfxcvhqqwqfbfqjyuqqnmfcbsfqeqtyhsjqs.flv
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="TAIWAN",TTV
 http://60.248.77.83/sat/tv071.flv
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="TAIWAN",TTV2
+http://ali.hlspull.yximgs.com/live/huanqiuhktvpteqfsxlvcqjewqqqpsqfvvxcqqqpfossvbxcfqqtqvxqhlts.flv
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa
