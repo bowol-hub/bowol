@@ -287,6 +287,13 @@ https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 http://ali.hlspull.yximgs.com/live/huanqiuhktvhpqjthpthcvhnququlsfqhcvbquyhbnqyqthq31.flv
 #EXTINF:-1 group-title="HONGKONG",18 plus
 http://ali.hlspull.yximgs.com/live/huanqiuhktvvhxqcvfhoeqfqhjoqqqyhcvxclqhqotqyq9qssqfjqcvhthofsqqhyx18.flv
+#EXTINF:-1 group-title="HONGKONG",HOYTV
+http://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbncvshhqsqcvnjfncvbjqpeyqhxchqsqqhqeqqqyxxw.flv
+#EXTINF:-1 group-title="HONGKONG",VIUTV
+http://ali.hlspull.yximgs.com/live/huanqiuhktvfhwqptjqbehqtyhbvhfqcvsqqfyqtvqutvsqx.flv
+#EXTINF:-1 group-title="HONGKONG",VIUTV6
+http://ali.hlspull.yximgs.com/live/huanqiuhktvfhtqqnqqjljqluqobnmqqhnbbmjqlpthqyqvqutv.flv
+
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/83/454/png-clipart-logo-newspaper-mbc-product-design-television-channel-mbc-text-logo.png" group-title="INTERNATIONAL TV",MBC Dubai
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
@@ -326,15 +333,9 @@ http://122.117.109.23:8528/http/61.219.99.20:8081/hls/65/807/ch20.m3u8?token=737
 http://iptv12k.com:35461/654321/123456/14495
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Xiju
 https://stream1.freetv.fun/06662348c5d655eada3055681991e16181b0fb309c68d52463437f1d8e20b599.m3u8
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw",VL Taiwan
-http://122.117.109.23:8528/http/61.67.128.137:8081/hls/69/811/ch033.m3u8
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw",VL Asia
-http://122.117.109.23:8528/http/61.67.128.137:8081/hls/69/811/ch035.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="TAIWAN",LTV Drama
-http://122.117.109.23:8528/http/61.67.128.137:8068/hls/11/80/cstv11.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/dalitv.jpg" group-title="TAIWAN",DALI TV
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iL8RQlR1uwjlXQuWtz7469jeUzKGCgecpA&s" group-title="TAIWAN",WXTV
@@ -415,12 +416,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid
 http://ali.hlspull.yximgs.com/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="MOVIES CHINESE",LTV
 http://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnqsvmbnfquqfjhyuqmqbvnqslhjq.flv
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="TAIWAN",LTV
+http://ali.hlspull.yximgs.com/live/huanqiuhktvqpxnmqfhquoweqcqxhvqlfqffqjwpoehcopvjqoqqfxwqy.flv
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ltvyingju.jpg" group-title="TAIWAN",LTV 2
+http://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM (Celestial Classic MV)
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM 2
 http://rr3.dens.tv/s/s31/index.m3u8
-#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw",VL Cinema
-http://122.117.109.23:8528/http/61.67.128.137:8081/hls/68/810/ch030.m3u8
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://play-lh.googleusercontent.com/tf4LYtB0TpSUBLbuRfTkUlg2JVdSKkrKvMj_Ht3f4CT8sapmpE_MW_8MjiNuTr4LuA=w240-h480-rw",ELTA HD
+http://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnqsvmvbsqqqfjhyuqmqbvnqslhxj.flv
 #EXTINF:-1 group-title="MOVIES CHINESE",EBC Movies
 http://ali.hlspull.yximgs.com/live/huanqiuhktvqowjxnqltjqhecvxcqqeqqeqyhqjyjuoquomjfqhqqqjqsqy.flv
 
@@ -597,25 +602,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="FILM MALAYSIA",Travel&Taste 
-https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="FILM MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
-https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="FILM MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="FILM MALAYSIA" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
-https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="FILM MALAYSIA" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
 #EXTINF:-1 group-title="FILM MALAYSIA" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria!
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
@@ -720,7 +707,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:0 group-title="SPORT-Fight" tvg-logo="https://www.kgtv.tk/api/chan/Impact Wrestling.png" ,IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20210227/ourmid/pngtree-social-competitive-indoor-billiards-png-image_2969798.jpg" group-title="SPORT-BILIARD",Billyard
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",Dubai Sports 2
@@ -766,18 +752,10 @@ http://het107a.4rouwanda-shop.store/live/918454578001/index.m3u8
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 2
 https://mantul.biz.id:443/inetwork/gayanet12/60.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 3
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Indosiar.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 4
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 5
 http://filex.tv:8080/live/aftab123/004090/302264.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 6
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 7
-https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 8
-https://mantul.biz.id:443/inetwork/gayanet12/60.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="🇲🇨 Liga Indonesia",INDOSIAR 9
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
