@@ -516,8 +516,12 @@ http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM 2
 http://rr3.dens.tv/s/s31/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://aktv.top/ak_ad1.gif" group-title="MOVIES CHINESE",PopC
+#EXTINF:-1 group-title="MOVIES CHINESE",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="MOVIES CHINESE",China Movie
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=156417
+#EXTINF:-1 group-title="MOVIES CHINESE",Mei Ah Movie HongKong
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -576,7 +580,7 @@ http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 http://60.248.77.83/sat/tv051.flv
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 2
-rtmp://9hv9.mine.nu/sat/tv051
+http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi Taiwan 
 http://122.117.109.23:8528/http/61.219.99.20:8081/hls/65/807/ch20.m3u8?token=7375646fda47ce22ccf96ec73b33695579634a99
