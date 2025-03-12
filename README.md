@@ -71,9 +71,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="NASIONAL",Indosiar 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
-
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/SAhIPX5A-hnhWzGWzUh937X95AY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL",MOJI
 https://zozotv.xyz:443/live/zotv744/zxy086/475.ts
 
@@ -247,8 +244,7 @@ http://116.254.112.74/hls/cakralive.m3u8
 http://iptv.kilas7.com:80/kaukia/asdfrewq/16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="DAERAH",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
-https://e.siar.us/live/surabayatv.m3u8
+
 
 
 //========================================================================
@@ -488,9 +484,9 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/90
 
 #EXTINF:-1 group-title="CHINA" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="CHINA", Phoenix 1 News
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://seeklogo.com/images/P/phoenix-infonews-channel-logo-DB4A3A55CE-seeklogo.com.png" , Phoenix 1 News
 http://iptv.kilas7.com:80/kaukia/asdfrewq/35
-#EXTINF:-1 group-title="CHINA", Phoenix 2
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://images.seeklogo.com/logo-png/10/1/phoenix-satellite-tv-logo-png_seeklogo-108520.png", Phoenix 2
 http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 
 //========================================================================
@@ -509,19 +505,17 @@ http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM 2
 http://rr3.dens.tv/s/s31/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES CHINESE",PopC
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQru7c9N_YOgqHMGWTmJXO3KvjNAguS09fxVw&s",PopC
 http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="MOVIES CHINESE",Mei Ah Movie HongKong
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029",Mei Ah Movie HongKong
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="HONGKONG",Mei Ah Movie HongKong
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029",Mei Ah Movie HongKong
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="HONGKONG",TVB Drama HongKong
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",TVB Drama
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="HONGKONG",TVB Drama HongKong 2
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",TVB Drama2
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 group-title="HONGKONG",TVB Film
-http://148.135.34.95:7095/v/1/2360
-#EXTINF:-1 group-title="HONGKONG",MYTV Super
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",MYTV Super
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 group-title="HONGKONG",test 1
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
@@ -589,6 +583,8 @@ http://210.210.155.37/x6bnqe/s/s182/index.m3u8
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa
 http://60.248.77.83/sat/tv051.flv
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa 2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
@@ -715,9 +711,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (TW)
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306484
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -737,7 +730,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306485
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1121,33 +1114,12 @@ https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SY
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 2
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", SONY Ten 1 HD 
-https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", VL Sports
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten2_HD.png" group-title="SPORTS 2", SONY Ten 2 HD
-https://mhdstream.com/sliv/stream.php?id=96585698|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 group-title="SPORTS 2",Astro Football
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten3_HD.png" group-title="SPORTS 2", SONY Ten 3 HD
-https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Six_HD.png" group-title="SPORTS 2", SONY Ten 5 HD 
-https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
-
-#EXTINF:-1  tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" group-title="SPORTS 2", Sportsnet 360 HD
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/2219
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SPORTS 2", Sportsnet One (HD)  
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/47379
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS 2",HK: NowSports 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304099
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS 2",HK: NowSports 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304098
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS 2",HK: NowSports 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304097
-
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports PL 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",HK: NowSports PL 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304467
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -1251,7 +1223,6 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/33
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
-
 
 
 
