@@ -542,6 +542,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid
 //========================================================================
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (B)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/22
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
 http://iptv.kilas7.com:80/kaukia/asdfrewq/23
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA HD
@@ -549,11 +551,13 @@ https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://seeklogo.com/images/1/8TV-logo-90A8C38436-seeklogo.com.png",TV8
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (B)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/19
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#http://iptv.kilas7.com:80/kaukia/asdfrewq/19
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8
 http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U (B)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/21
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#http://iptv.kilas7.com:80/kaukia/asdfrewq/21
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U
 http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 
@@ -939,10 +943,6 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20210227/ourmid/pngtree-social-competitive-indoor-billiards-png-image_2969798.jpg" group-title="SPORT-BILIARD",Billyard
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="SPORTS", SBS SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://iptv12k.com:35461/live/654321/123456/3214.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1110,15 +1110,21 @@ https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yY
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN (backup)
+http://38.51.233.85:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 2
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", VL Sports
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", Sportivo TV
+https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS 2",Astro Football
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/1/astro-logo-png_seeklogo-267962.png" group-title="SPORTS 2",Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/9/1/nbc-sports-logo-png_seeklogo-97713.png" group-title="SPORTS 2",NBC Sports
+https://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
