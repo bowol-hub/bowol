@@ -1079,10 +1079,10 @@ https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZ
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", VL Sports
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-9865A907F8-seeklogo.com.png" group-title="SPORTS 2", NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="SPORTS 2", NBA TV
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/1/astro-logo-png_seeklogo-267962.png" group-title="SPORTS 2",Astro Football
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS 2",Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
