@@ -249,8 +249,6 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="DAERAH",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-
-
 //========================================================================
 //Collected by  menampilkan playlist >>> KIDS
 //========================================================================
@@ -342,7 +340,6 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png" group-title="KIDS 2",Animax TV
 https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
 
 //========================================================================
 //Collected  menampilkan playlist >>> MOVIES
@@ -529,6 +526,9 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",MYTV Super
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",TVB J2
+http://xn--94q.l5.ca/daili/Smartv.php?id=j2_twn
+
 #EXTINF:-1 group-title="HONGKONG",test 1
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
 #EXTINF:-1 group-title="HONGKONG",test 2
@@ -610,11 +610,9 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
 http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (B)
-#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Asia
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
@@ -667,8 +665,10 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://seeklogo.com/images/T/TV3-logo-5C29A8EACC-seeklogo.com.png",TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
-#http://iptv.kilas7.com:80/kaukia/asdfrewq/26
-#https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://seeklogo.com/images/T/TV3-logo-5C29A8EACC-seeklogo.com.png",TV3 (B)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/26
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://seeklogo.com/images/T/TV3-logo-5C29A8EACC-seeklogo.com.png",TV3 (C)
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png",TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
@@ -719,7 +719,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES 2",HBO 
 https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES 2",HBO TW
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES 2",HBO Family
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
@@ -1078,16 +1079,11 @@ https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZ
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", VL Sports
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", VL Sports 2
-rtmp://60.248.77.83/sat/tv721
-#EXTINF:-1 tvg-logo="https://iili.io/JhkbGcv.png" group-title="SPORTS 2", Sportivo TV
-https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-9865A907F8-seeklogo.com.png" group-title="SPORTS 2", NBA TV
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/1/astro-logo-png_seeklogo-267962.png" group-title="SPORTS 2",Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmozpyX.png" group-title="SPORTS 2",beIN Sports Xtra 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
@@ -1106,7 +1102,6 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS 2",ELTA 2
 rtmp://9hv9.mine.nu/sat/md011
-
 
 //========================================================================
 //Collected by  menampilkan playlist >>> INTERNASIONAL
