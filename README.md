@@ -493,9 +493,9 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/90
 
 #EXTINF:-1 group-title="CHINA" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://seeklogo.com/images/P/phoenix-infonews-channel-logo-DB4A3A55CE-seeklogo.com.png" , Phoenix 1 News
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phinfns.png" , Phoenix 1 News
 http://iptv.kilas7.com:80/kaukia/asdfrewq/35
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://images.seeklogo.com/logo-png/10/1/phoenix-satellite-tv-logo-png_seeklogo-108520.png", Phoenix 2
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phchch.png", Phoenix 2
 http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 
 //========================================================================
@@ -513,11 +513,14 @@ http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid
 
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM 2
 http://rr3.dens.tv/s/s31/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQru7c9N_YOgqHMGWTmJXO3KvjNAguS09fxVw&s",PopC
 http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029",Mei Ah Movie HongKong
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029",Meiya Movie (GG)
+https://www.insurancegogogo.com/4987/meiyamovie_twn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES CHINESE",LS Time Movie
+https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029",Mei Ah Movie HongKong
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",TVB Drama
@@ -526,8 +529,12 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",MYTV Super
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",TVB J2
-http://xn--94q.l5.ca/daili/Smartv.php?id=j2_twn
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",TVB J2 (GG)
+https://www.insurancegogogo.com/4987/j2_twn/playlist.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",TVB Wah Lai To (GG)
+https://www.insurancegogogo.com/4987/Wlt/playlist.m3u8
+#EXTINF:-1 group-title="HONGKONG" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png",VIU (GG)
+https://www.insurancegogogo.com/4987/viu1_twn/playlist.m3u8
 
 #EXTINF:-1 group-title="HONGKONG",test 1
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
@@ -561,15 +568,17 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/23
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA HD
 https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://seeklogo.com/images/1/8TV-logo-90A8C38436-seeklogo.com.png",TV8
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/28
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (B)
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#http://iptv.kilas7.com:80/kaukia/asdfrewq/19
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/19
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8
 http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U (B)
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-#http://iptv.kilas7.com:80/kaukia/asdfrewq/21
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/21
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U
 http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 
@@ -587,33 +596,39 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 //========================================================================
 #EXTINF:-1 tvg-logo="https://www.tvkeep.com/uploads/cts-hd.jpg" group-title="TAIWAN",CTS
 http://60.248.77.83/sat/tv111.flv
-
 #EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/china-television--600.png" group-title="TAIWAN",CTV
 http://60.248.77.83/sat/tv091.flv
-
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="TAIWAN",TTV
 http://60.248.77.83/sat/tv071.flv
-
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="TAIWAN",TTV Zonghe (GG)
+https://www.insurancegogogo.com/4987/ttvzhonghe/playlist.m3u8
+#EXTINF:-1 group-title="TAIWAN",Huanyu (GG)
+https://www.insurancegogogo.com/4987/huanyutaiwan_twn/playlist.m3u8
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
 http://210.210.155.37/x6bnqe/s/s182/index.m3u8
-
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa
 http://60.248.77.83/sat/tv051.flv
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa 2
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0.png" group-title="TAIWAN", 民視第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="TAIWAN", 民視 (GG)
+https://www.insurancegogogo.com/4987/ftvhd_taiwan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
 http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (B)
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Asia
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (GG)
+https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Xiju
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Xiju (GG)
+https://www.insurancegogogo.com/4987/sanlixiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Xonghe (GG)
+https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ctitv.jpg" group-title="TAIWAN",CTi zonghe(GG)
+https://www.insurancegogogo.com/4987/ctizhonghe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ctitv.jpg" group-title="TAIWAN",CTi Ent(GG)
+https://www.insurancegogogo.com/4987/ctient/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iL8RQlR1uwjlXQuWtz7469jeUzKGCgecpA&s" group-title="TAIWAN",WXTV
@@ -721,7 +736,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES 2",HBO TW
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES 2",HBO Family
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
 
