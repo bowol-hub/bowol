@@ -1071,24 +1071,31 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 //Collected by  menampilkan playlist >>> SPORTS 2
 //========================================================================
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CN4U2NmNzYkZmMxQWL5ITN50CNzQGNtYzMkRTL5UTYlNGOxIzL.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", TNT Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzkTOxQDOxITY3kTL4MGM40COyYGNtYGO0QWLzIWZxUjNzczL.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SNzI2NzMzYlJGZ4ETLhZWMh1CMhZDNtYjZ3ITLiVjZzQjNyAzL.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iNjRWZyczNjhTM4ITL0AjY50yNlNGNtYTMxQTLwE2N2YTNhZzL.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", VL Sports
