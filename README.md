@@ -897,8 +897,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SPORTS", TVRI Sports
 http://rr3.dens.tv/s/s107/index.m3u8
-#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SPORTS", TVRI mas bokir
-https://scontent.fcgk16-1.fna.fbcdn.net/hvideo-ash-prn/_nc_cat-1/_nc_sr_t-4/v/rASfMOKx5QG-Q10Joyrizhb0Gkd76Z3Rakkmq4NckS0Svjw/_nc_ohc-GCvCX1vMHjIQ7kNvgGbx3W0/live-dash/dash-abr-ibr-audio/122234004578224867.mpd?_nc_eui2=AeHH0WiorqLB0M56n8s1VNlelTJubmbbonOVMm5uZtuicwJmWav-vOo01fdyElzM2eVxk7XRwm9MkZuSUkDNcOjw&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYGVKYSAikGUoG7MF_wwQT5WLgQm0AQQvVBXY8bnfG4zgA&oe=67E95781
+#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SPORTS", TVRI mas bokir Lebaran
+https://scontent.fcgk16-1.fna.fbcdn.net/hvideo-vll-frc/_nc_cat-1/_nc_sr_t-4/v/rASdLEKRbGBerHtJYeQNf8vL-2tF8gzyfidDoGF1xxGvf7g/_nc_ohc-VyVgk0qSK1EQ7kNvgEZn0EF/live-dash/dash-abr-ibr-audio/122234651306224867.mpd?_nc_eui2=AeEK_-q05T_OKpqeGLPT1F4nZCRvrYMVSahkJG-tgxVJqCuf93slvKo0iQy-6cvhwuDBVQx7MK1a8E2S-ZGVP8Q8&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYFZBfqHaHhgOpVFdBCC8HMsq2X4AMI7k72f79dClK4rGw&oe=67EC528A
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
