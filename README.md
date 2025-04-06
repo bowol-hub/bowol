@@ -919,6 +919,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SPORTS", TVRI Sports
 http://rr3.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SPORTS", TVRI Sports 6 April
+https://scontent.fmlg9-1.fna.fbcdn.net/hvideo-vll-frc/_nc_cat-1/_nc_sr_t-4/v/rASdY9B-JReVk4adNXzOP3EjAqDkA-w3pys-2o_A0weN5qg/_nc_ohc-uR_sswk1W3kQ7kNvwF9Ub8j/live-dash/dash-abr-ibr-audio/122236519910224867.mpd?_nc_eui2=AeEQ3NUjbtkAvdQ-SPj5TZWmnfl9uHBpR6ed-X24cGlHp6D0E_yE4bqtya55SDvJ7E7ae-F77hgNhm2Zpdjh8OF3&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfFgQxqj2NEbwQB-6zp_JUQvIKuXJnmWbOR5oip-2j05cQ&oe=67F3E111
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
