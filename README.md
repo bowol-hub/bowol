@@ -530,6 +530,14 @@ http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SPORTS", TVRI Sports
 http://rr3.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="SPORTS",MOJI TV
+http://opplex.tv:8080/starmpk/mpk1234/350997
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="SPORTS",MOJI TV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/29855
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="SPORTS",RCTI HD
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/400200742.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="SPORTS",RCTI
+http://opplex.tv:8080/starmpk/mpk1234/351023
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS",Sportstars
 #EXTVLCOPT:http-user-agent=android-R+
