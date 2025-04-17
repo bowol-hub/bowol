@@ -156,6 +156,22 @@ https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+#EXTINF:-1 tvg-logo="https://iili.io/JmoBGnV.png" group-title="KIDS 2", Nick Jr2
+https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd|Referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+#EXTINF:-1 tvg-logo="https://iili.io/JmoBluj.png" group-title="KIDS 2", Nickelodeon
+https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd|Referer=https://www.visionplus.id
+
+#EXTINF:-1 group-title="KIDS 2" tvg-logo="https://i.imgur.com/wEUhVFr.png", NICK JR
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nickjr.m3u8
+
+#EXTINF:-1 group-title="KIDS 2" tvg-logo="https://i.imgur.com/BIyIUW7.png", NICKELODEON
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nickelodeon.m3u8
+
 //========================================================================
 //Collected by  menampilkan playlist >>> KIDS2
 //========================================================================
@@ -182,9 +198,6 @@ https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 group-title="KIDS 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png",MBC 2
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS 2",Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #EXTINF:-1 group-title="KIDS 2" tvg-logo="https://media-mvtv-app.imgix.net/channel/153_y_Agyp2nEebLvC9tWa5xBcY1J038OuTzFD.png",Boomerang 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -216,9 +229,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="DRAKOR/Korea" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png",K+
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
-#EXTINF:-1 group-title="DRAKOR/Korea" tvg-logo="https://padmin.static.kbs.co.kr/live/2020/3/23/1584964694173_178117.jpg",KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
-
 #EXTINF:-1 group-title="DRAKOR/Korea" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
@@ -240,12 +250,6 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #EXTINF:0 tvg-logo="https://media.slid.es/uploads/jeonwoochi/images/789230/xingkong.png" group-title="CHINA",Star Xing Kong
 http://iptv.kilas7.com:80/kaukia/asdfrewq/38
-
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon
-http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://seeklogo.com/images/C/cctv-logo-13BF549EB7-seeklogo.com.png",CCTV-4
-http://210.210.155.37/x6bnqe/s/s19/index.m3u8
 
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV-1
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
@@ -273,8 +277,10 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM (Celestial Classic MV)
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg", CCM 2
-http://rr3.dens.tv/s/s31/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://iili.io/Jmod0qg.png" group-title="MOVIES CHINESE", Celestial Classic Movies
+http://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
+
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029",Meiya Movie 
 https://www.insurancegogogo.com/4987/meiyamovie_twn/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES CHINESE",LS Time Movie
@@ -396,16 +402,14 @@ http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
 http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (B)
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (GG)
 https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN", 三立都会
 http://220.231.144.42:2025/zb.php?id=1522
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="TAIWAN",SETi Xiju
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET INTERNATIONAL 三立国际台
-https://dl.dropboxusercontent.com/scl/fi/9ozqprpeek2kud5hhihhi/setinternational.m3u8?rlkey=td09f6ocrq0lk967zqsidwfpv&st=7rszcdxi
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET INTERNATIONAL 三立国际台
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", Astro Hua Hee Dai
 http://220.231.144.42:2025/zb.php?id=1347
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
@@ -495,15 +499,27 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="MOVIES",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", Thrill
-http://rr3.dens.tv/s/s34/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/vpSIsZG.png", THRILL
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/thrill.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="MOVIES",HBO TW
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES",HBO Family
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MOVIES", ASTRO SHOWCASE
-https://dl.dropboxusercontent.com/scl/fi/sakmawnzs78skkj8hk318/showcase.m3u8?rlkey=4q16tcvqqnwyvznmiq0yj7aav&st=zdklvla1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bwMFK4X.jpeg" ,ROCK ACTION
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/bwMFK4X.jpeg" ,ROCK ACTION
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ROCK_ACTION.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/gqCgagp.jpeg" ,ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rock%20entertainment.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tnQAX2T.png" group-title="MOVIES", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -553,15 +569,16 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS",Sportstars
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="SPORTS",Sportstars 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstars.png", SPORTSTAR 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
+
+#EXTINF:-1 tvg-logo="https://iili.io/2UfbOcg.png" group-title="SPORTS",Premier Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
@@ -629,6 +646,18 @@ http://220.231.144.42:2025/zb.php?id=1591
 #EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://220.231.144.42:2025/zb.php?id=1592
 
+#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY| GOLF CHANNEL HD" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="SPORT-Golf",GOLF CHANNEL HD
+http://extraott.com:900/live/3162523972/3791698850/191942.m3u8
+
+#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", PGA Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-Golf" , Golf SBS
+https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://lo1.in/uk/FOX SPORTS.png" group-title="SPORT-Golf",FOX SPORTS 503 HD
+http://extraott.com:900/live/3162523972/3791698850/42048.m3u8
+
 //========================================================================
 //Collected menampilkan playlist >>> KNOWLEDGE
 //========================================================================
@@ -649,6 +678,14 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="KNOWLEDGE",Discovery science 
 http://cord-cutter.net:8080/7686199/9576982/57418 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://iili.io/JZIBpS4.png" group-title="KNOWLEDGE", Crime Investigation
+https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd|Referer=https://www.visionplus.id
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="KNOWLEDGE", ANIMAL PLANET
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/animalplanet.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" group-title="KNOWLEDGE",National Geographic Wild 
 http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8 
@@ -673,12 +710,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Radio_Capital_logo.svg/500px-Radio_Capital_logo.svg.png" group-title="MUSIK",Capital Hits
 https://streamcdnm7-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png" group-title="MUSIK", MUsic TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:0 tvg-logo="https://rendra92.files.wordpress.com/2012/11/dangdut-logo-300x117.png" group-title="MUSIK",MALEO
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
@@ -713,7 +744,6 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 //========================================================================
 //Collected by  menampilkan playlist >>> SPORTS 2
 //========================================================================
-
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS 2", VL Sports
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
