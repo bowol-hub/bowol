@@ -282,7 +282,7 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
 
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029",Meiya Movie 
 https://www.insurancegogogo.com/4987/meiyamovie_twn/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES CHINESE",LS Time Movie
+#EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/LS_Times.png",LS Time Movie
 https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES CHINESE" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB Xing He
@@ -381,8 +381,18 @@ http://60.248.77.83/sat/tv071.flv
 
 #EXTINF:-1 group-title="TAIWAN",Huanyu (GG)
 https://www.insurancegogogo.com/4987/huanyutaiwan_twn/playlist.m3u8
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV
-http://210.210.155.37/x6bnqe/s/s182/index.m3u8
+
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daai%20tv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV (2)
+http://cempedak-cdn-fly.mncnow.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
+
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa
 http://60.248.77.83/sat/tv051.flv
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.tvchinese.net/uploads/tv/ftv.jpg",Minshe Formosa 2
@@ -672,10 +682,10 @@ http://220.231.144.42:2025/zb.php?id=1591
 #EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 http://220.231.144.42:2025/zb.php?id=1592
 
-#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY| GOLF CHANNEL HD" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="SPORT-Golf",GOLF CHANNEL HD
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="SPORT-Golf",GOLF CHANNEL HD
 http://extraott.com:900/live/3162523972/3791698850/191942.m3u8
 
-#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", PGA Tour
+#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://images.seeklogo.com/logo-png/10/2/pga-tour-logo-png_seeklogo-108268.png", PGA Tour
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-Golf" , Golf SBS
@@ -828,9 +838,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS 2", BEIN SPORTS 8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS 2", BEIN SPORTS 9
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
-
 
 //========================================================================
 //Collected by  menampilkan playlist >>> INTERNASIONAL
