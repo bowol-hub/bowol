@@ -417,16 +417,15 @@ https://www.insurancegogogo.com/4987/sanlitaiwan/playlist.m3u8
 http://220.231.144.42:2025/zb.php?id=1522
 #EXTINF:-1 tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN", 三立都会 (GG)
 https://www.insurancegogogo.com/4987/sanlixiju_twn/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立综合
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立综合-
 http://220.231.144.42:2025/zb.php?id=1523
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立戏剧
-http://220.231.144.42:2025/zb.php?id=1525
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立戏剧 (GG)
 https://www.insurancegogogo.com/4987/sanlizhonghe/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立国际
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立戏剧
+http://220.231.144.42:2025/zb.php?id=1525
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",三立国际台
 http://220.231.144.42:2025/zb.php?id=1528
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET INTERNATIONAL 三立国际台
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", 三立国际台 (2)
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", Astro Hua Hee Dai
 http://220.231.144.42:2025/zb.php?id=1347
