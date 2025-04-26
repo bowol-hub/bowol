@@ -919,7 +919,7 @@ rtmp://9hv9.mine.nu/sat/md011
 rtmp://9hv9.mine.nu/sat/md021
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS 2 Lambat",ELTA 1 
 http://108.181.20.197/livehttpplay?channel_id=20129
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS 2 Lambat,ELTA 2
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS 2 Lambat",ELTA 2
 http://108.181.20.197/livehttpplay?channel_id=20107
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS 2 Lambat",ELTA 2 (backup)
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
@@ -942,7 +942,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS 2 Lambat", BEIN SPORTS 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar6.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS 2 Lambat, BEIN SPORTS 7
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS 2 Lambat", BEIN SPORTS 7
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
 
 //========================================================================
