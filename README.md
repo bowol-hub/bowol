@@ -681,7 +681,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS", SPORTSTARS 2
 https://link.zozotv.xyz:443/usez37/zxy921/165
-#EXTINF:0 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="NASIONAL",Indosiar Sports
+#EXTINF:0 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="SPORTS",Indosiar Sports
 https://link.zozotv.xyz:443/usez37/zxy921/45
 
 #EXTINF:-1 tvg-logo="https://iili.io/2UfbOcg.png" group-title="SPORTS",Premier Football
