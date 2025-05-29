@@ -15,6 +15,8 @@
 
 #EXTINF:-1 tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="NASIONAL",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="NASIONAL",RCTI (live)
+http://iptv12k.com:35461/m241002928762939/111111/34104
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="NASIONAL",RCTI HD
 #EXTVLCOPT:http-user-agent=android-R+
@@ -353,8 +355,11 @@ http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=ME6E2294929422949294&c
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視 (Malam Off)
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Astro Hua Hee Dai
+http://iptv12k.com:35461/m241002928762939/111111/13595
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
-http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=MDAD7410187174101871&ct=20107&tsum=effbf646c9bc456988fb75b252b36881
+http://iptv12k.com:35461/m241002928762939/111111/14495
+#http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=MDAD7410187174101871&ct=20107&tsum=effbf646c9bc456988fb75b252b36881
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (Malam Off)
 https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",SET Xiju
@@ -365,12 +370,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternation
 http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MC0C7100513271005132&ct=20107&tsum=ba573914cea71f60558b7fb5f17bdb78
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN",SET 三立综合台
 http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/twgtv.jpg" group-title="TAIWAN",八大第一 GTV First
-https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/twgtv.jpg" group-title="TAIWAN",八大综合 GTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/twgtv.jpg" group-title="TAIWAN",八大戏剧 GTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=badadrama
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
@@ -567,10 +566,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Astro Badminton
 http://hotz.vip:2082/GM29/Glidermedia01/978
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Astro Badminton (B)
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Astro Badminton 2
-http://hotz.vip:2082/GM29/Glidermedia01/9841
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Astro Badminton 2 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
@@ -591,6 +586,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA Sports 3
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA Sports 3 (backup)
+http://iptv12k.com:35461/m241002928762939/111111/14441
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="SPORTS",ESPN 1
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
@@ -611,11 +608,6 @@ http://firetop1.site/live/158717872/875587369/640.ts
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="SPORTS 2", MY BEIN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="SPORTS 2", MY BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="SPORTS 2",ESPN 4
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
@@ -645,30 +637,30 @@ http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS 2",ELTA Sports 2
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS 2", BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SPORTS 2",Sony Sports Ten 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS 2", BEIN SPORTS 1 EN
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS 2", BEIN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="SPORTS 2",Sony Sports Ten 2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS 2", BEIN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="SPORTS 2",Sony Sports Ten 3
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS 2", BEIN SPORTS 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORTS 2", Sony Sports Ten 5
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS 2", BEIN SPORTS 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein1
+http://het116a.4rouwanda-shop.store/live/918454578001/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein2
+http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein3
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein4
+http://het111a.4rouwanda-shop.store/live/0103088447/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein5
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein6
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8?t=HzA5wfyyXqwTdMUSZQqu_A&e=1748513199
 
 //========================================================================
 //Collected  menampilkan playlist >>> TENNIS
@@ -681,8 +673,8 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORT-Tennis",Tennis Channel Taiwan
 https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORT-Tennis", MY BEIN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORT-Tennis", BEIN SPORTS 2
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORT-Tennis", BEIN SPORTS 7
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
