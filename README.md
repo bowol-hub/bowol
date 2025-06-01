@@ -231,10 +231,10 @@ https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 //Collected  menampilkan playlist >>> CHINA
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CHINA", CCTV ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CHINA", Pindah ke aplikasi OTT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv_ent.m3u8
 
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",Zhe Jiang
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",Pindah ke aplikasi OTT
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV-1
@@ -243,9 +243,9 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPla
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV-1 HD
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/oC4jhXd.png",CCTV-15
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/oC4jhXd.png",Pindah ke aplikasi OTT
 http://555.4gtv.ggff.net:3080/php/mig.php?id=cctv15
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", Pindah ke aplikasi OTT
 http://555.4gtv.ggff.net:3080/php/mig.php?id=cctv3
 
 #EXTINF:0 group-title="CHINA" tvg-logo="https://www.dens.tv/images/channel-logo/85.jpg",CCTV4
@@ -256,11 +256,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="CHINA", CCTV4 BackUp
 https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
 
-#EXTINF:-1 group-title="CHINA" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
+#EXTINF:-1 group-title="CHINA" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",Pindah ke aplikasi OTT
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phinfns.png" , Phoenix 1 News
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phinfns.png" , Pindah ke aplikasi OTT
 http://iptv.kilas7.com:80/kaukia/asdfrewq/35
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phchch.png", Phoenix 2
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phchch.png", Pindah ke aplikasi OTT
 http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 
 //========================================================================
@@ -548,15 +548,10 @@ http://hotz.vip:2082/GM29/Glidermedia01/978
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Astro Badminton 2 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/92fmBl6.png",CCTV5
-http://vallest.uk/livehttpplay?channel_id=30003
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/92fmBl6.png",CCTV5 (B)
 http://198.16.100.186:8278/cctv5/playlist.m3u8?tid=MEFE1484354714843547&ct=20107&tsum=fd504320fedffaa0051d6e0f991efdee
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/92fmBl6.png",CCTV5+
 http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MB8B3193831131938311&ct=20107&tsum=38ac2fb322882fb38cde82bfce75104e
-
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="SPORTS", T SPORTS
-https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
@@ -568,33 +563,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA Sports 3 (backup)
 http://iptv12k.com:35461/m241002928762939/111111/14441
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="SPORTS",ESPN 1
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/639.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="SPORTS",ESPN 2
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/638.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="SPORTS",ESPN 3
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/640.ts
-
-
 //========================================================================
 //Collected by  menampilkan playlist >>> SPORTS 2
 //========================================================================
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="SPORTS 2",ESPN 4
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/62.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="SPORTS 2",ESPN 5
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://firetop1.site/live/158717872/875587369/60.ts
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
@@ -686,19 +660,19 @@ http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
 //Collected  menampilkan playlist >>> GOLF
 //========================================================================
 
-#EXTINF:0 group-title="SPORT-Golf" tvg-logo="https://i.etsystatic.com/42181717/r/il/4fccdb/5940644976/il_570xN.5940644976_svc3.jpg" ,ONE Golf
+#EXTINF:0 group-title="SPORT-Golf" tvg-logo="https://i.etsystatic.com/42181717/r/il/4fccdb/5940644976/il_570xN.5940644976_svc3.jpg" ,Pindah ke aplikasi OTT
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png", PGA Tour
+#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png", Pindah ke aplikasi OTT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-Golf" , Golf SBS
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-Golf" , Pindah ke aplikasi OTT
 https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png", Taiwan Golf
+#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png", Pindah ke aplikasi OTT
 https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORT-Golf", Sony Sports Ten 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORT-Golf", Pindah ke aplikasi OTT
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 //========================================================================
