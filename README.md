@@ -514,8 +514,9 @@ https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="SPORTS",Timnas RCTI
-http://iptv12k.com:35461/m241002928762939/111111/1812
-
+https://smart.pendy.dpdns.org/Smart.php?id=Rcti
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="SPORTS",Timnas GTV
+https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein3
 https://wo.cma.footballii.ir/hls2/b3_src.m3u8
