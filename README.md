@@ -43,6 +43,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="NASIONAL",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="NASIONAL",Trans 7 (B)
+http://103.148.44.37:8000/play/a0d6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="NASIONAL",Trans TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -156,9 +158,6 @@ https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd|Referer=https://www.i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7p2MpK.png" group-title="KIDS",Cartoon Network
 http://cdn.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg" group-title="KIDS", Cartoonito
-https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/b82CgoIwEV8ChnOh_9lvGhnt2iU=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="KIDS",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
@@ -176,8 +175,6 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
 //Collected by  menampilkan playlist >>> KIDS2
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmoBXF1.png" group-title="KIDS", Cartoonito 2
-http://cdn.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
 
 #EXTINF:0 group-title="KIDS" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS
 http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
@@ -193,10 +190,6 @@ https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png",MBC 2
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://media-mvtv-app.imgix.net/channel/153_y_Agyp2nEebLvC9tWa5xBcY1J038OuTzFD.png",Boomerang 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
 
 //========================================================================
 //Collected  menampilkan playlist >>> KOREA
@@ -231,35 +224,17 @@ https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 //Collected  menampilkan playlist >>> CHINA
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CHINA", Pindah ke aplikasi OTT
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv_ent.m3u8
-
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png",Pindah ke aplikasi OTT
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV-1
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV-1 HD
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/oC4jhXd.png",Pindah ke aplikasi OTT
-http://555.4gtv.ggff.net:3080/php/mig.php?id=cctv15
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", Pindah ke aplikasi OTT
-http://555.4gtv.ggff.net:3080/php/mig.php?id=cctv3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", Pindah ke aplikasi OTT (2)
-http://36.40.236.55:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•19•IPV4『线路8』
-
 #EXTINF:0 group-title="CHINA" tvg-logo="https://www.dens.tv/images/channel-logo/85.jpg",CCTV4
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
 
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="CHINA", CCTV4 BackUp
-https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
-
-#EXTINF:-1 group-title="CHINA" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",Pindah ke aplikasi OTT
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phinfns.png" , Pindah ke aplikasi OTT
 http://iptv.kilas7.com:80/kaukia/asdfrewq/35
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phchch.png", Pindah ke aplikasi OTT
@@ -337,20 +312,20 @@ rtmp://f13h.mine.nu/sat/tv071
 rtmp://f13h.mine.nu/sat/tv111
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Astro Hua Hee Dai
-http://iptv12k.com:35461/m241002928762939/111111/13595
+http://opplex.tv:8080/ht155230/495759/388736
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Astro Hua Hee Dai (2)
 https://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
-http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=MDAD7410187174101871&ct=20107&tsum=effbf646c9bc456988fb75b252b36881
+https://stream1.freetv.fun/san-li-tai-wan---1-1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (2)
 https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",SET Xiju
-http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+https://stream1.freetv.fun/san-li-xi-ju---1-1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SETi Asia
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET Zonghe 2
-http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MC0C7100513271005132&ct=20107&tsum=ba573914cea71f60558b7fb5f17bdb78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET Zonghe
+https://stream1.freetv.fun/san-li-zong-he---1-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
@@ -425,6 +400,8 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://seeklogo.com/images/T/TV3-logo-5C29A8EACC-seeklogo.com.png",TV3 
 http://iptv.kilas7.com:80/kaukia/asdfrewq/26
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://seeklogo.com/images/T/TV3-logo-5C29A8EACC-seeklogo.com.png",TV3 (B)
+http://hotz.vip:2082/GM29/Glidermedia01/5
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png",TV9
 http://iptv.kilas7.com:80/kaukia/asdfrewq/29
@@ -508,7 +485,7 @@ https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
 //Collected  menampilkan playlist >>> SPORTS
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://iili.io/2UfbOcg.png" group-title="SPORTS",TIMNAS Premier Football
+#EXTINF:-1 tvg-logo="https://iili.io/2UfbOcg.png" group-title="SPORTS",Premier Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -520,20 +497,16 @@ https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein3
 https://wo.cma.footballii.ir/hls2/b3_src.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 
+http://hotz.vip:2082/GM29/Glidermedia01/1023
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=Arena
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2
-http://iptv12k.com:35461/m241002928762939/111111/20681
+http://hotz.vip:2082/GM29/Glidermedia01/1025
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=Arena2
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena Bola
 https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2025_Indonesia_National_Football_Team_Badge.png/500px-2025_Indonesia_National_Football_Team_Badge.png",TIMNAS (C) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
@@ -546,7 +519,7 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Astro Badminton
-http://iptv12k.com:35461/m241002928762939/111111/5220
+http://hotz.vip:2082/GM29/Glidermedia01/1011
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Astro Badminton 2 (B)
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
@@ -557,8 +530,12 @@ http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MB8B3193831131938311&ct=2
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV (B)
+http://hotz.vip:2082/GM29/Glidermedia01/9560
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2 (B)
+http://hotz.vip:2082/GM29/Glidermedia01/9561
 
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA Sports 3
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
@@ -568,6 +545,12 @@ http://iptv12k.com:35461/m241002928762939/111111/14441
 //========================================================================
 //Collected by  menampilkan playlist >>> SPORTS 2
 //========================================================================
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="SPORTS 2",beIN Sports 1
+http://het114a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=ERbgrYwGYy3DSRBxbBNo-w&e=1749208573
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="SPORTS 2",beIN Sports 2
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8?t=n0Lj8K72w_pwhaZu0SXO8A&e=1749209034
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="SPORTS 2",beIN Sports 3
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8?t=woYCripPAeQI3mZRttrQsg&e=1749209114
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
@@ -603,6 +586,8 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166686
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/moji.png" group-title="SPORTS 2",MOJI Live
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/moji.png" group-title="SPORTS 2",MOJI Live (B)
+http://opplex.tv:8080/ht155230/495759/350997
 
 //========================================================================
 //Collected  menampilkan playlist >>> TENNIS
@@ -649,25 +634,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 group-title="SPORT-Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
-
-//========================================================================
-//Collected  menampilkan playlist >>> GOLF
-//========================================================================
-
-#EXTINF:0 group-title="SPORT-Golf" tvg-logo="https://i.etsystatic.com/42181717/r/il/4fccdb/5940644976/il_570xN.5940644976_svc3.jpg" ,Pindah ke aplikasi OTT
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png", Pindah ke aplikasi OTT
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="SPORT-Golf" , Pindah ke aplikasi OTT
-https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="SPORT-Golf" tvg-logo="https://dl.dropboxusercontent.com/s/2f10x0m4h4qhsye/golf.png", Pindah ke aplikasi OTT
-https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORT-Golf", Pindah ke aplikasi OTT
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 //========================================================================
 //Collected menampilkan playlist >>> KNOWLEDGE
