@@ -304,6 +304,8 @@ https://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
 http://smt.iktv.ddns-ip.net/Smart.php?id=sanlitaiwan
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (2)
 https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (3)
+http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=MDAD7410187174101871&ct=20107&tsum=effbf646c9bc456988fb75b252b36881
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",SET Xiju
 http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MF1F6146920661469206&ct=20107&tsum=751ac9204f65803d6312a2d53f4692e9
@@ -477,8 +479,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=Rcti
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="SPORTS",Timnas GTV
 https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS Bein3
-https://wo.cma.footballii.ir/hls2/b3_src.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 
 http://hotz.vip:2082/GM29/Glidermedia01/1023
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2
@@ -506,9 +506,9 @@ http://198.16.100.186:8278/cctv5/playlist.m3u8?tid=MEFE1484354714843547&ct=20107
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/92fmBl6.png",CCTV5+
 http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MB8B3193831131938311&ct=20107&tsum=38ac2fb322882fb38cde82bfce75104e
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV (B)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV PINDAH KE OTT
 http://hotz.vip:2082/GM29/Glidermedia01/9560
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2 (B)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2 PINDAH KE OTT
 http://hotz.vip:2082/GM29/Glidermedia01/9561
 
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="SPORTS",ELTA Sports 3
@@ -519,12 +519,9 @@ http://iptv12k.com:35461/m241002928762939/111111/14441
 //========================================================================
 //Collected by  menampilkan playlist >>> SPORTS 2
 //========================================================================
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS 2",beIN Sports 1
-http://het119a.4rouwanda-shop.store/live/978480008877005/index.m3u8?t=CNJ6Kn5B49YrGRqxgIpbhw&e=1749366024
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS 2",beIN Sports 2
-http://het105a.4rouwanda-shop.store/live/10011244/index.m3u8?t=WJt2bFHz5N1v9LRFP3lPmg&e=1749366036
+
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS 2",beIN Sports 3
-http://het107a.4rouwanda-shop.store/live/161988840/index.m3u8?t=noP_DMDy_1XyhxjGJgiRVA&e=1749366043
+https://wo.cma.footballii.ir/hls2/b3_src.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
