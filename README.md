@@ -74,8 +74,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 //========================================================================
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
-#EXTVLCOPT:http-user-agent=Intraplay5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/inews.m3u8
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="BERITA",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -168,9 +168,6 @@ https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csPSacE.png" group-title="KIDS",PLUTO TV NICK JR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/188_y_agUT0o6Vh3t87iAyQEf2nFbGKBk1JN9p.png" group-title="KIDS", BOOMERANG CARTOON
-https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
-
 //========================================================================
 //Collected by  menampilkan playlist >>> KIDS2
 //========================================================================
@@ -235,11 +232,6 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
 
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phinfns.png" , Pindah ke aplikasi OTT
-http://iptv.kilas7.com:80/kaukia/asdfrewq/35
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://lo1.in/MALAY/phchch.png", Pindah ke aplikasi OTT
-http://iptv.kilas7.com:80/kaukia/asdfrewq/36
-
 //========================================================================
 //Collected  menampilkan playlist >>> CHINA MOVIES
 //========================================================================
@@ -296,48 +288,38 @@ https://cdn6.163189.xyz/live/chu/stream.m3u8
 //========================================================================
 
 #EXTINF:-1 group-title="TAIWAN" tvg-logo="https://i.imgur.com/oHWQfIF.png", DAAI TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daai%20tv.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAAI_TV_2.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
 
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視
 http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=ME6E2294929422949294&ct=20107&tsum=92a2f9c4476423b5cc6410c33f5a7193
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視 (2)
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視 (3)
-rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/Taiwan_Television_logo.png",TTV
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:0 group-title="TAIWAN",CTS
-rtmp://f13h.mine.nu/sat/tv111
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Astro Hua Hee Dai
-http://opplex.tv:8080/ht155230/495759/388736
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Astro Hua Hee Dai (2)
 https://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW
-https://stream1.freetv.fun/san-li-tai-wan---1-1.m3u8
+http://smt.iktv.ddns-ip.net/Smart.php?id=sanlitaiwan
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",SETi TW (2)
 https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN",SET Xiju
-https://stream1.freetv.fun/san-li-xi-ju---1-1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SETi Asia
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
+http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MF1F6146920661469206&ct=20107&tsum=751ac9204f65803d6312a2d53f4692e9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET Zonghe
-https://stream1.freetv.fun/san-li-zong-he---1-1.m3u8
+http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MC0C7100513271005132&ct=20107&tsum=ba573914cea71f60558b7fb5f17bdb78
+
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS Asia
+http://smt.iktv.ddns-ip.net/Smart.php?id=Tvbasia
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5iL8RQlR1uwjlXQuWtz7469jeUzKGCgecpA&s" group-title="TAIWAN",WXTV
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.pngitem.com/pimgs/m/206-2069562_tcu-logosvg-wikimedia-commons-tzu-chi-logo-png.png",Tzu Chi
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://www.pngitem.com/pimgs/m/206-2069562_tcu-logosvg-wikimedia-commons-tzu-chi-logo-png.png",DA AI2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS
-http://125.227.210.55:8187/VideoInput/play.ts
 
 //========================================================================
 //Collected  menampilkan playlist >>> FILM MALAYSIA
@@ -499,12 +481,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 https://wo.cma.footballii.ir/hls2/b3_src.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 
 http://hotz.vip:2082/GM29/Glidermedia01/1023
-#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 (B)
-https://smart.pendy.dpdns.org/Smart.php?id=Arena
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2
 http://hotz.vip:2082/GM29/Glidermedia01/1025
-#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2 (B)
-https://smart.pendy.dpdns.org/Smart.php?id=Arena2
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena Bola
 https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
 
@@ -528,12 +506,8 @@ http://198.16.100.186:8278/cctv5/playlist.m3u8?tid=MEFE1484354714843547&ct=20107
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/92fmBl6.png",CCTV5+
 http://198.16.100.186:8278/cctv5plus/playlist.m3u8?tid=MB8B3193831131938311&ct=20107&tsum=38ac2fb322882fb38cde82bfce75104e
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV (B)
 http://hotz.vip:2082/GM29/Glidermedia01/9560
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2 (B)
 http://hotz.vip:2082/GM29/Glidermedia01/9561
 
@@ -545,12 +519,12 @@ http://iptv12k.com:35461/m241002928762939/111111/14441
 //========================================================================
 //Collected by  menampilkan playlist >>> SPORTS 2
 //========================================================================
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="SPORTS 2",beIN Sports 1
-http://het114a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=ERbgrYwGYy3DSRBxbBNo-w&e=1749208573
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="SPORTS 2",beIN Sports 2
-http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8?t=n0Lj8K72w_pwhaZu0SXO8A&e=1749209034
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="SPORTS 2",beIN Sports 3
-http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8?t=woYCripPAeQI3mZRttrQsg&e=1749209114
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS 2",beIN Sports 1
+http://het119a.4rouwanda-shop.store/live/978480008877005/index.m3u8?t=CNJ6Kn5B49YrGRqxgIpbhw&e=1749366024
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS 2",beIN Sports 2
+http://het105a.4rouwanda-shop.store/live/10011244/index.m3u8?t=WJt2bFHz5N1v9LRFP3lPmg&e=1749366036
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS 2",beIN Sports 3
+http://het107a.4rouwanda-shop.store/live/161988840/index.m3u8?t=noP_DMDy_1XyhxjGJgiRVA&e=1749366043
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
