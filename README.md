@@ -477,22 +477,10 @@ https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="SPORTS",Timnas RCTI
-https://smart.pendy.dpdns.org/Smart.php?id=Rcti
-
-#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 
-http://hotz.vip:2082/GM29/Glidermedia01/1023
-#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 2
-http://hotz.vip:2082/GM29/Glidermedia01/1025
-#EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena Bola
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS beIN Sports 3 HD
 https://wo.cma.footballii.ir/hls2/b3_src.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS beIN Sports 3 MD
-http://het103a.4rouwanda-shop.store/live/645587700/index.m3u8?t=u1DmryBcu4-oy5DlZQNw6A&e=1749553900
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS beIN Sports 3 SD
-http://bdd78.4rouwanda-shop.store/live/161988840/index.m3u8?t=JmEFomIw5WZdCimpb0eo7g&e=1749553880
+http://het117a.4rouwanda-shop.store/live/645587700/index.m3u8?t=plr9oAqRr3W7NKnmpCfE9g&e=1749572597
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",Bein Sport 1
 https://stream1.freetv.fun/bein-sports-1-3.ctv
 
