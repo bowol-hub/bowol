@@ -111,6 +111,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
+#EXTINF:-1 group-title="BERITA",BTV
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
+
 
 //========================================================================
 //Collected menampilkan playlist >>> DAERAH
@@ -457,8 +460,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0 
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MOVIES", ASTRO SHOWCASE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MOVIES", HOLLYEODD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/jWAQfAf.png",AXN
 #EXTVLCOPT:http-user-agent=0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -476,8 +479,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="SPORTS",Timnas RCTI
 https://smart.pendy.dpdns.org/Smart.php?id=Rcti
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="SPORTS",Timnas GTV
-https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena 1 
 http://hotz.vip:2082/GM29/Glidermedia01/1023
@@ -486,15 +487,17 @@ http://hotz.vip:2082/GM29/Glidermedia01/1025
 #EXTINF:-1 tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS",TIMNAS Astro Arena Bola
 https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS beIN Sports 3 HD
+https://wo.cma.footballii.ir/hls2/b3_src.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS beIN Sports 3 MD
+http://het103a.4rouwanda-shop.store/live/645587700/index.m3u8?t=u1DmryBcu4-oy5DlZQNw6A&e=1749553900
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",TIMNAS beIN Sports 3 SD
+http://bdd78.4rouwanda-shop.store/live/161988840/index.m3u8?t=JmEFomIw5WZdCimpb0eo7g&e=1749553880
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS",Bein Sport 1
+https://stream1.freetv.fun/bein-sports-1-3.ctv
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-sukan-my.png" group-title="SPORTS",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/xuFbLf7.png",Dubai Sports 1 
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/o8RMWHE.png",Dubai Sports 2 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XjOO8ri.png",Dubai Sports 3 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static02.astro.com.my/astro/media/11oct2018/articles/astro-corp-logo.png",Astro Badminton
 http://hotz.vip:2082/GM29/Glidermedia01/1011
@@ -520,8 +523,12 @@ http://iptv12k.com:35461/m241002928762939/111111/14441
 //Collected by  menampilkan playlist >>> SPORTS 2
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="SPORTS 2",beIN Sports 3
-https://wo.cma.footballii.ir/hls2/b3_src.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.imgur.com/xuFbLf7.png",Dubai Sports 1 
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.imgur.com/o8RMWHE.png",Dubai Sports 2 
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.imgur.com/XjOO8ri.png",Dubai Sports 3 
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
@@ -543,15 +550,14 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SPORTS 2",Sony Sports Ten 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="SPORTS 2",Sony Sports Ten 2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="SPORTS 2",Sony Sports Ten 3
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORTS 2", Sony Sports Ten 5
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 group-title="SPORTS 2", RACING TV
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8 
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" ,TVRI SPORT
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166686
@@ -559,6 +565,11 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166686
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/moji.png" group-title="SPORTS 2",MOJI Live (B)
 http://opplex.tv:8080/ht155230/495759/350997
+
+#EXTINF:-1 group-title="SPORTS BILYARD",Bilyard 1
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u
+#EXTINF:-1 group-title="SPORTS BILYARD",Bilyard 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
 
 //========================================================================
 //Collected  menampilkan playlist >>> TENNIS
@@ -571,14 +582,12 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORT-Tennis",Tennis Channel Taiwan
 https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORT-Tennis", BEIN SPORTS 2
-http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SPORT-Tennis",Sony Sports Ten 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORT-Tennis", Sony Sports Ten 5
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORT-Tennis", BEIN SPORTS 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
+
 
 //========================================================================
 //Collected  menampilkan playlist >>> FIGHT
@@ -599,12 +608,16 @@ http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklis
 #EXTINF:0 group-title="SPORT-Fight" tvg-logo="https://www.kgtv.tk/api/chan/Glory Kickboxing.png" ,GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
 #EXTINF:0 group-title="SPORT-Fight" tvg-logo="https://www.kgtv.tk/api/chan/Impact Wrestling.png" ,IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 group-title="SPORT-Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
+
+#EXTINF:0 group-title="SPORT-Fight" tvg-logo="https://www.kgtv.tk/api/chan/Glory Kickboxing.png" ,Boxing 1
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/8d205a30-d00f-457d-978b-265b290eb7e0/0.m3u8 
+#EXTINF:0 group-title="SPORT-Fight" tvg-logo="https://www.kgtv.tk/api/chan/Glory Kickboxing.png" ,Boxing 2
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8 
 
 //========================================================================
 //Collected menampilkan playlist >>> KNOWLEDGE
