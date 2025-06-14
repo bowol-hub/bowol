@@ -221,7 +221,7 @@ https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV-1
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV-1 HD
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",Pindah ke Aplikasi OTT
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="CHINA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-3-cn.png",CCTV-3
@@ -289,6 +289,9 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/21
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAAI_TV_2.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FL2V4nc.jpeg" group-title="TAIWAN", 大爱一台
+http://198.16.100.186:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
+
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視
 http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=ME6E2294929422949294&ct=20107&tsum=92a2f9c4476423b5cc6410c33f5a7193
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",民視 (2)
@@ -300,6 +303,8 @@ http://198.16.100.186:8278/ttvzhonghe/playlist.m3u8?tid=MB5B4476922444769224&ct=
 
 #EXTINF:0 group-title="TAIWAN" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588805215534-F9MLXQ3U7250YGDT87CQ/network_cti.png",CTI
 http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MCCC6077647260776472&ct=20107&tsum=5a899234a868c2d2e90b5b8020e9173b
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN", 華視 CTS
+http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg" group-title="TAIWAN",Astro Hua Hee Dai
 http://198.16.100.186:8278/Huahee/playlist.m3u8?tid=MD0D8171539681715396&ct=20107&tsum=099a086702dcb73d6ab793778cac521f
@@ -313,9 +318,6 @@ http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=MDAD7410187174101871&ct
 http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MF1F6146920661469206&ct=20107&tsum=751ac9204f65803d6312a2d53f4692e9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN", SET Zonghe
 http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MC0C7100513271005132&ct=20107&tsum=ba573914cea71f60558b7fb5f17bdb78
-
-#EXTINF:-1 group-title="TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS
-http://125.227.210.55:8187/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="TAIWAN",NTD
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
@@ -387,9 +389,6 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/26
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://seeklogo.com/images/T/TV3-logo-5C29A8EACC-seeklogo.com.png",TV3 (B)
 http://hotz.vip:2082/GM29/Glidermedia01/5
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png",TV9
-http://iptv.kilas7.com:80/kaukia/asdfrewq/29
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4KB7QbW/beritartm.png" group-title="MALAYSIA", Berita RTM
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -457,7 +456,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0 
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MOVIES", HOLLYEODD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MOVIES", Hollywood Movie
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/jWAQfAf.png",AXN
@@ -508,6 +507,12 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/maste
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98fRynX.png" group-title="SPORTS 2",Hang Meas GO Bundesliga
+http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/z7NOxJ3.png" group-title="SPORTS 2",HTV Thể Thao
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
@@ -560,6 +565,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORT-Tennis", Sony Sports Ten 5
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="SPORT-Tennis" , BeinSports2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
 
 
 //========================================================================
@@ -583,9 +590,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf
 
 #EXTINF:0 group-title="SPORT-Fight" tvg-logo="https://www.kgtv.tk/api/chan/Impact Wrestling.png" ,IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 group-title="SPORT-Fight" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png", TEN SPORTS
-http://125.209.88.166:45793/BRN/TenSports.stream/chunklist_w567508624.m3u8
 
 #EXTINF:0 group-title="SPORT-Fight" tvg-logo="https://www.kgtv.tk/api/chan/Glory Kickboxing.png" ,Boxing Klasik
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/8d205a30-d00f-457d-978b-265b290eb7e0/0.m3u8 
@@ -679,12 +683,21 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 //Collected by  menampilkan playlist >>> INTERNASIONAL
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/id8NefbSAa/ididTbBc7f.png" group-title="INTERNATIONAL TV",TV5 France
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/id8NefbSAa/ididTbBc7f.png" group-title="PERANCIS",TV5 France
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/id8NefbSAa/ididTbBc7f.png" group-title="INTERNATIONAL TV",TV5 France Pacific
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/id8NefbSAa/ididTbBc7f.png" group-title="PERANCIS",TV5 France Pacific
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="INTERNATIONAL TV",Fashion TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="PERANCIS",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8 
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg" group-title="PERANCIS", TV5 Monde Style
+https://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8?app_type=web&userid=lite&chname=TV5MONDE_Style_HD
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="PERANCIS", TV5 Monde Style 2
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="KAMBOJA",Rasmey Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
@@ -698,14 +711,12 @@ http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/chunklis
 http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/chunklist_w231709154_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="KAMBOJA",Hang Meas CINE UHDTV
 http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w11599795_b1800000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E49KcQz.png" group-title="KAMBOJA",Hang Meas MALL HDTV
-http://abclive.malisresidences.com:1935/snappee/_definst_/smil:snappee.smil/chunklist_w278875194_b1800000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/98fRynX.png" group-title="KAMBOJA",Hang Meas GO UHDTV
 http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="KAMBOJA",Hang Meas BOXING UHDTV
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="KAMBOJA",CNC 
-http://43.252.18.195:5080/live/streams/cnctv.m3u8
+
 
 //========================================================================
 //Collected  menampilkan playlist >>> RELIGION
@@ -770,7 +781,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
-#EXTINF:-1 group-title="THAILAND" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png", MONO 29
+#EXTINF:-1 group-title="PIALA DUNIA ANTAR KLUB" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png", MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 
@@ -812,8 +823,6 @@ http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 group-title="4K CHANNEL",Fireplace 4K
 https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r7uso3f9kw8t8-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D 
-#EXTINF:-1 group-title="4K CHANNEL",Clarity 4K
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE 
 #EXTINF:-1 group-title="4K CHANNEL",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/156/325/png-transparent-travel-channel-international-television-channel-broadcasting-travel-television-blue-text-thumbnail.png" group-title="4K CHANNEL",4K Travel
